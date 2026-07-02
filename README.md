@@ -27,7 +27,7 @@ Climate change is the defining challenge of our generation, yet **most individua
 **Carbon Compass** bridges this gap by providing:
 
 - **Instant visibility** — See your carbon footprint broken down by category in seconds
-- **AI-powered intelligence** — Upload electricity bills for automatic data extraction via Gemini Vision
+- **AI-powered intelligence** — Upload electricity bills for automatic data extraction 
 - **Actionable coaching** — Personalized, AI-driven recommendations to reduce emissions
 - **Progress tracking** — Weekly goals and impact forecasts to keep you on track
 
